@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/luuhieukhanh/luuhieukhanh/main/banner.png" alt="Luu Hieu Khanh Banner" />
+  <img src="Banner.png" alt="Luu Hieu Khanh Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Luu Hieu Khánh</h1>
